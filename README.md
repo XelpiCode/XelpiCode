@@ -62,7 +62,7 @@ Exports to CSV/JSON for structured storage.
 
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail&logoColor=white)](mailto:ankith3690@gmail.com)  
+[![Email](https://img.shields.io/badge/ankith3690@gmail.com-red?logo=gmail&logoColor=white)](mailto:ankith3690@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/XelpiCode)
 
 ---
