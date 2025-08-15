@@ -26,8 +26,8 @@ I work with **Python, C/C++, JavaScript, SQL, Dart**, and love blending backend 
 
 **Graphics & Systems:**  
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)  
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)  
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)  
 
 **Tools & Platforms:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
@@ -62,9 +62,8 @@ Exports to CSV/JSON for structured storage.
 
 ## 📫 Contact Me
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/yourname)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-red?logo=gmail&logoColor=white)](mailto:ankith3690@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/XelpiCode)
 
 ---
 
