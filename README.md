@@ -26,8 +26,9 @@ I work with **Python, C/C++, JavaScript, SQL, Dart**, and love blending backend 
 
 **Graphics & Systems:**  
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)  
-![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white)  
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)  
+![SDL3](https://img.shields.io/badge/SDL3-00CC00?logo=sdl&logoColor=white)
 
 **Tools & Platforms:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
@@ -41,6 +42,10 @@ I work with **Python, C/C++, JavaScript, SQL, Dart**, and love blending backend 
 ---
 
 ## 🛠 Projects
+
+### 🧱 OpenGL MC-like 3D Voxel Engine (In Progress)
+Currently developing a Minecraft-inspired 3D voxel engine using OpenGL, SDL3, and CMake.  
+Features real-time rendering, terrain generation, and interactive voxel manipulation.
 
 ### 🗣 AI Voice Assistant
 Built a Python-based AI assistant with speech recognition, natural language processing, and task automation.  
@@ -63,8 +68,7 @@ Exports to CSV/JSON for structured storage.
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/ankith.r.dev@gmail.com-red?logo=gmail&logoColor=white)](mailto:ankith.r.dev@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/XelpiCode)
 
 ---
 
-⭐ *Always curious. Always building.*  
+⭐ *Always curious. Always building.*
